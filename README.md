@@ -83,12 +83,8 @@ Works smoothly on **desktop 💻, tablet 📱, and mobile 📲**.
  ┗ 📜 README.md
  ```
 ---
-## 🚀 Deployment
 
-Easily deploy with free services:
 
-🌐 Netlify
+## 👩‍💻 Author  
 
-▲ Vercel
-
-📄 GitHub Pages
+Developed with ❤️ by Elena Filatova  
