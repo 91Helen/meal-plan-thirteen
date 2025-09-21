@@ -27,7 +27,7 @@ Works smoothly on **desktop 💻, tablet 📱, and mobile 📲**.
   ![Editing meals](docs/screenshot-edit.png)  
 
 - **Мобильная версия**  
-  ![Mobile view](docs/screenshot-mobile.png)  
+  ![Mobile view](https://github.com/91Helen/meal-plan-thirteen/blob/main/mobile%20view.png?raw=true)  
 
 
 Meal editing
