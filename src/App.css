@@ -1,38 +1,159 @@
-.App {
+body {
+  background: url(food.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  background-color: #dcedf7;
+  border-radius: 20px;
+  padding: 15px;
+  font-size: 1.5rem;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.button-add {
+  font-family: "Montserrat", sans-serif;
+  background-color: #77cf40;
+  padding: 15px 25px;
+  border-radius: 20px;
+  border: none;
+  font-size: 17px;
+  cursor: pointer;
+  margin: 10px 0;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.button-delete {
+  font-family: "Montserrat", sans-serif;
+  background: none;
+  border: 0;
+  color: red;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.button-delete:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.App {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-around;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 20px;
+  flex-wrap: wrap;
 }
 
-.App-link {
-  color: #61dafb;
+.whole-plan {
+  width: 70%;
+  height: 100vh;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.myInput {
+  width: 100%;
+  min-height: 20px;
+  padding: 10px;
+  border-radius: 20px;
+  display: block;
+  margin-top: 20px;
+  box-sizing: border-box;
+}
+
+textarea {
+  display: block;
+  border: 1px solid #ddd;
+  margin-top: 30px;
+  padding: 10px;
+  width: 100%;
+  height: 200px;
+  border-radius: 20px;
+  font-family: "Montserrat", sans-serif;
+  box-sizing: border-box;
+}
+
+.meal {
+  background-color: rgba(255,255,255,0.8);
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 15px;
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+
+.meal:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+
+.selected {
+  background-color: #dcedf7;
+  border: 2px solid #77cf40;
+}
+
+p {
+  color: #fff;
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.field {
+  color: black;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+}
+
+
+@media (max-width: 1024px) {
+  .App {
+    flex-direction: column;
+    align-items: center;
   }
-  to {
-    transform: rotate(360deg);
+
+  .whole-plan {
+    width: 100%;
+    height: auto;
+  }
+
+  .meal {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 1.2rem;
+  }
+
+  .button-add {
+    width: 100%;
+    padding: 15px;
+    font-size: 16px;
+  }
+
+  textarea {
+    height: 150px;
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 1rem;
+    padding: 10px;
+  }
+
+  .button-add {
+    font-size: 14px;
+    padding: 12px;
+  }
+
+  p {
+    font-size: 16px;
+  }
+
+  .field {
+    font-size: 12px;
   }
 }
