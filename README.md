@@ -20,13 +20,13 @@ Works smoothly on **desktop 💻, tablet 📱, and mobile 📲**.
 
 👉## 🖼️ Screenshots  
 
-- **Главный экран**  
+- **Main view**  
   ![Main view](https://github.com/91Helen/meal-plan-thirteen/blob/main/Main%20view.png?raw=true)  
 
-- **Редактирование блюд и ингредиентов**  
+- **Editing meals**  
   ![Editing meals](https://github.com/91Helen/meal-plan-thirteen/blob/main/Editing%20meal.png?raw=true)  
 
-- **Мобильная версия**  
+- **Mobile view**  
   ![Mobile view](https://github.com/91Helen/meal-plan-thirteen/blob/main/mobile%20view.png?raw=true)  
 
 
