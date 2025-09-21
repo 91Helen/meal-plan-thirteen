@@ -47,7 +47,34 @@ Works smoothly on **desktop 💻, tablet 📱, and mobile 📲**.
 
  ---
 
-## 📦 weekly-meal-planner
+
+
+
+
+ 
+## ⚙️ Installation & Setup  
+
+1. **Clone this repository**  
+   ```bash                
+   git clone https://github.com/your-username/weekly-meal-planner.git
+   cd weekly-meal-planner
+   ```                 
+
+2. **Install dependencies**  
+   ```bash
+   npm install
+   ```                    
+
+3. **Start development server**  
+   ```bash
+   npm start
+   ```                    
+   ---
+
+    ## 📂 Project Structure  
+
+```text
+📦 weekly-meal-planner
  ┣ 📂 src
  ┃ ┣ 📜 App.js
  ┃ ┣ 📜 MyList.js
@@ -56,18 +83,3 @@ Works smoothly on **desktop 💻, tablet 📱, and mobile 📲**.
  ┃ ┗ 📜 index.js
  ┣ 📜 package.json
  ┗ 📜 README.md
-
- ---
- 
-## ⚙️ Installation & Setup  
-
-1. **Clone this repository**  
-   ```bash
-   git clone https://github.com/your-username/weekly-meal-planner.git
-   cd weekly-meal-planner
-2. **Install dependencies**
- 
-   npm install
-4. **Start development server**
-   
-   npm start
