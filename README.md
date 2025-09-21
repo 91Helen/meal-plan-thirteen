@@ -18,11 +18,16 @@ Works smoothly on **desktop 💻, tablet 📱, and mobile 📲**.
 ---
 🖼️ Screenshots
 
-👉 ![Главный экран]()
+👉## 🖼️ Screenshots  
 
+- **Главный экран**  
+  ![Main view](weekly meal plan ideas 1.png)  
 
+- **Редактирование блюд и ингредиентов**  
+  ![Editing meals](docs/screenshot-edit.png)  
 
-Main view
+- **Мобильная версия**  
+  ![Mobile view](docs/screenshot-mobile.png)  
 
 
 Meal editing
