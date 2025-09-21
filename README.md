@@ -81,3 +81,14 @@ Works smoothly on **desktop 💻, tablet 📱, and mobile 📲**.
  ┃ ┗ 📜 index.js
  ┣ 📜 package.json
  ┗ 📜 README.md
+ ```
+---
+## 🚀 Deployment
+
+Easily deploy with free services:
+
+🌐 Netlify
+
+▲ Vercel
+
+📄 GitHub Pages
