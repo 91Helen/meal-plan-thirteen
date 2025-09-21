@@ -21,7 +21,7 @@ Works smoothly on **desktop 💻, tablet 📱, and mobile 📲**.
 👉## 🖼️ Screenshots  
 
 - **Главный экран**  
-  ![Main view](<!-- Uploading "Main view.png"... -->)  
+  ![Main view](https://github.com/91Helen/meal-plan-thirteen/issues/1#issue-3438424369)  
 
 - **Редактирование блюд и ингредиентов**  
   ![Editing meals](docs/screenshot-edit.png)  
