@@ -18,7 +18,8 @@ Works smoothly on **desktop 💻, tablet 📱, and mobile 📲**.
 ---
 🖼️ Screenshots
 
-👉 ![Uploading Снимок экрана (102).png…]()
+👉 ![Главный экран]()
+
 
 
 Main view
