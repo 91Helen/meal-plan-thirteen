@@ -21,7 +21,7 @@ Works smoothly on **desktop 💻, tablet 📱, and mobile 📲**.
 👉## 🖼️ Screenshots  
 
 - **Главный экран**  
-  ![Main view](weekly meal plan ideas 1.png)  
+  ![Main view](<!-- Uploading "Main view.png"... -->)  
 
 - **Редактирование блюд и ингредиентов**  
   ![Editing meals](docs/screenshot-edit.png)  
