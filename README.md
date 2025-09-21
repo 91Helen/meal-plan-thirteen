@@ -27,11 +27,38 @@ Works smoothly on **desktop 💻, tablet 📱, and mobile 📲**.
   ![Editing meals](https://github.com/91Helen/meal-plan-thirteen/blob/main/Editing%20meal.png?raw=true)  
 
 - **Mobile view**  
-  ![Mobile view](https://github.com/91Helen/meal-plan-thirteen/blob/main/mobile%20view.png?raw=true)  
+  ![Mobile view](https://github.com/91Helen/meal-plan-thirteen/blob/main/mobile%20view.png?raw=true)
 
+---
 
-Meal editing
+##  🛠️ Tech Stack
 
+⚛️ React
+ – UI library
+
+🆔 uuid
+ – unique IDs
+
+💾 localStorage
+ – persistent storage
+
+🎨 CSS3
+ – styling & responsive design
+
+ ---
+
+## 📦 weekly-meal-planner
+ ┣ 📂 src
+ ┃ ┣ 📜 App.js
+ ┃ ┣ 📜 MyList.js
+ ┃ ┣ 📜 MyMealsAndIngridients.js
+ ┃ ┣ 📜 App.css
+ ┃ ┗ 📜 index.js
+ ┣ 📜 package.json
+ ┗ 📜 README.md
+
+ ---
+ 
 ## ⚙️ Installation & Setup  
 
 1. **Clone this repository**  
