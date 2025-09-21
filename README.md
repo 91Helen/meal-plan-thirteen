@@ -18,8 +18,6 @@ Works smoothly on **desktop 💻, tablet 📱, and mobile 📲**.
 ---
 🖼️ Screenshots
 
-👉## 🖼️ Screenshots  
-
 - **Main view**  
   ![Main view](https://github.com/91Helen/meal-plan-thirteen/blob/main/Main%20view.png?raw=true)  
 
